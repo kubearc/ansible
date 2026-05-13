@@ -38,7 +38,7 @@ vim ansible.cfg
 inventory       = 'path of your host file'
 
 # Default remote user for SSH connections
-remote_user     = ansible
+remote_user     = admin
 
 # Disable SSH host key checking (okay for labs, not for production)
 host_key_checking = False
